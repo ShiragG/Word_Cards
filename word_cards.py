@@ -11,6 +11,7 @@ def translate():
 
 def main():
     keyboard.add_hotkey('ctrl+alt+x',translate)
+    
     while True:
         pass
 
